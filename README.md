@@ -6,8 +6,12 @@
  Here's the available data: [Data](https://drive.google.com/file/d/1llWCmIbaW-uHvZcD-soT8DJQJYmm8zAA/view?usp=drive_link).
 ### Results
  Our model achived an accuracy of 86.2% that place us around the top-20 of groups.
+ ### Report 
+ For more information refer to the [report](https://github.com/SimoneCallegarin/ANNDL_2023/blob/main/Homework_1/Report.docx).
 
  ## Homework_2
  In this homework we were asked to predict future samples of 60 input time series of length 200, by designing and implementing a forecasting model able to learn how to exploit past observations in the input sequences to correctly predict the future (9 samples for the “development” phase and 18 for the “final”).
 ### Results
  Our model achived a mse of 0.00468272 in the development phase and 0.00863581 in the final phase that place us 13th among all groups.
+### Report 
+ For more information refer to the [report](https://github.com/SimoneCallegarin/ANNDL_2023/blob/main/Homework_2/Report.pdf).
